@@ -1,7 +1,7 @@
 <h1 align = "center">
 Henrique Silva
 </h1>
----
+
 ### Hi there 👋
 
 - 💼 Atualmente estou trabalhando como Técnico de Suporte na **Central IT**
