@@ -4,7 +4,7 @@ Henrique Silva
 
 ### Hi there 👋
 
-- 💼 Atualmente estou trabalhando como Técnico de Suporte na **Central IT**
+- 💼 Atualmente estou trabalhando como QA na **Accenture**
 - 📚 Ultimamente venho aprofundando meus estudos em Testes de Software
 - 💙 Java, Selenium, JUnit, Postman, RestAssured
 
