@@ -4,9 +4,9 @@ Henrique Silva
 
 ### Hi there 👋
 
-- 💼 Atualmente estou trabalhando como QA na **Accenture**
-- 📚 Ultimamente venho aprofundando meus estudos em Testes de Software
-- 💙 Java, Selenium, JUnit, Postman, RestAssured
+- 💼 Atualmente estou trabalhando como QA
+- 📚 Ultimamente venho aprofundando meus estudos em automação de testes
+- 💙 Java, Selenium, JUnit, Postman, RestAssured, Cypress
 
 
 <!--
