@@ -6,7 +6,7 @@ Henrique Silva
 
 - 💼 Atualmente estou trabalhando como QA
 - 📚 Ultimamente venho aprofundando meus estudos em automação de testes
-- 💙 Java, Selenium, JUnit, Postman, RestAssured, Cypress
+- 💙 Appim, Flutter, Selenium, Cypress, Postman, RestAssured
 
 
 <!--
